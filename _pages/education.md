@@ -1,9 +1,9 @@
 ---
-title: "Meng Group - Research"
+title: "Meng Group - Education"
 layout: textlay
-excerpt: "Meng Group -- Research"
+excerpt: "Meng Group -- Education"
 sitemap: false
-permalink: /research/
+permalink: /education/
 ---
 
 # Research

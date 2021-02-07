@@ -5,7 +5,7 @@ excerpt: "Presentations"
 sitemap: false
 permalink: /presentations/
 ---
-
+<div class="row">
 <div class="col-sm-6 clearfix">
 
 ### Talks
@@ -22,4 +22,17 @@ permalink: /presentations/
   
 {% endfor %}
 </div>
+
+<div class="col-sm-6 clearfix">
+
+### Posters
+
+{% for poster in site.data.posterlist %}
+
+  {{ poster.title }}, presented by {{ poster.presenter }} at <b>{{ poster.meeting }}</b>, <u>{{ poster.date }}</u>, {{ poster.location }}.
+  
+{% endfor %}
+</div>
+</div>
+
 

@@ -25,8 +25,9 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig1.png" alt="Slide 1" <div onclick="window.open('https://www.bilibili.com/video/BV1kg4y187VP')"> />
         </div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig2.jpeg" alt="Slide 2" />
         </div>

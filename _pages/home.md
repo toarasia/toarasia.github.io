@@ -25,7 +25,7 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig1.png" alt="Slide 1" onclick="window.open('https://www.bilibili.com/video/BV1kg4y187VP')" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig1.png" alt="Slide 1" onclick="window.open('https://www.nature.com/articles/s41467-018-04337-y')" />
         </div>
 
         <div class="item">

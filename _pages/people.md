@@ -1,9 +1,9 @@
 ---
-title: "Meng Group - Team"
+title: "Meng Group - People"
 layout: gridlay
-excerpt: "Meng Group: Team members"
+excerpt: "Meng Group: People"
 sitemap: false
-permalink: /team/
+permalink: /people/
 ---
 
 # Group Members
@@ -15,7 +15,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Staff
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.people %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

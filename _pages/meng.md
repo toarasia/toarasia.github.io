@@ -11,8 +11,6 @@ permalink: /meng/
 [| 下载个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_ch.pdf)  
 *Last updated: Nov. 1, 2020*  
 
-<div class="row">
-
 <div class="col-sm-7 clearfix">
 
 #### <b>RESEARCH AREAS</b>  
@@ -43,7 +41,5 @@ Atmosphere-Land-Ocean Interactions
 2015 Group Achievement Award, NASA  
 2013 Harvard University Certificate of Distinction in Teaching  
 2008 Graduate with honors, Nankai University
-
-</div>
 
 <div class="col-sm-5 clearfix">

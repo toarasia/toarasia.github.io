@@ -8,17 +8,18 @@ permalink: /presentations/
 
 # Presentations
 
-{% for talk in site.data.talklist %}
+###2021
+{% for talk in site.data.talk21 %}
 
-  {% if talk.invited_talk == 1 %}
-  - <b>{{ talk.title }}</b>, presented by {{ talk.presenter }} at <u>{{ talk.meeting }}</u>, {{ talk.date }}, {{ talk.location }}. <b>(Invited)</b>
-  {% endif %} 
-
-  {% if talk.invited_talk == 0 %}
   - <b>{{ talk.title }}</b>, presented by {{ talk.presenter }} at <u>{{ talk.meeting }}</u>, {{ talk.date }}, {{ talk.location }}.
-  {% endif %} 
   
 {% endfor %}
 
 
+###2020
+{% for talk in site.data.talk20 %}
+
+  - <b>{{ talk.title }}</b>, presented by {{ talk.presenter }} at <u>{{ talk.meeting }}</u>, {{ talk.date }}, {{ talk.location }}.
+  
+{% endfor %}
 

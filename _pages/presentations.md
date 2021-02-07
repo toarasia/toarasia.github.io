@@ -5,9 +5,8 @@ excerpt: "Presentations"
 sitemap: false
 permalink: /presentations/
 ---
-<div class="col-sm-6 clearfix">
 
-### Talks
+# Presentations
 
 {% for talk in site.data.talklist %}
 
@@ -22,6 +21,5 @@ permalink: /presentations/
 {% endfor %}
 </div>
 
-</div>
 
 

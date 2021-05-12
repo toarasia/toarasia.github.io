@@ -3,7 +3,7 @@ title: "TOAR EAWG - Database"
 layout: gridlay
 excerpt: "TOAR EAWG-- Database."
 sitemap: false
-permalink: /database/
+permalink: /publications/
 ---
 
 

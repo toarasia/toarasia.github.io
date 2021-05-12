@@ -3,7 +3,7 @@ title: "Documents"
 layout: gridlay
 excerpt: "Documents"
 sitemap: false
-permalink: /documents/
+permalink: /presentations/
 ---
 
 # Presentations

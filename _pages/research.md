@@ -3,7 +3,7 @@ title: "TOAR EAWG - News"
 layout: textlay
 excerpt: "TOAR EAWG -- News"
 sitemap: false
-permalink: /News/
+permalink: /research/
 ---
 
 # Research

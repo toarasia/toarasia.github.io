@@ -3,7 +3,7 @@ title: "EAWG - Members"
 layout: gridlay
 excerpt: "EAWG: Members"
 sitemap: false
-permalink: /members/
+permalink: /people/
 ---
 
 # Working Group Members

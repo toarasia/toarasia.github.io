@@ -1,7 +1,7 @@
 ---
-title: "Meng Group - Home"
+title: "TOAR EAWG - Home"
 layout: homelay
-excerpt: "Meng Group at UCL."
+excerpt: "TOAR EAWG"
 sitemap: false
 permalink: /
 ---

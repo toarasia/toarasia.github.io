@@ -1,7 +1,7 @@
 ---
-title: "Meng Group - Publications"
+title: "TOAR EAWG - Database"
 layout: gridlay
-excerpt: "Meng Group -- Publications."
+excerpt: "TOAR EAWG-- Database."
 sitemap: false
 permalink: /publications/
 ---
@@ -52,11 +52,3 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
-
-{% for publi in site.data.publist %}
-
-1. {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}

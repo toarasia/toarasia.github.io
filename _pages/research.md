@@ -1,7 +1,7 @@
 ---
-title: "Meng Group - Research"
+title: "TOAR EAWG - News"
 layout: textlay
-excerpt: "Meng Group -- Research"
+excerpt: "TOAR EAWG -- News"
 sitemap: false
 permalink: /research/
 ---

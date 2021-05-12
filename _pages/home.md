@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to Dr. Jing Meng's research group at University College London!** We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The East Asia Focus Working Group aims to advance ozone research over East Asia, with a focus on understanding ozone trends and their driving factors. The working group will construct an open-access dataset for East Asia Ozone Study (EAO3 dataset) as a supplement to the [TOAR II](https://igacproject.org/activities/TOAR/TOAR-II) surface ozone database. The Working Group will endeavor to quantify the climatic and chemical factors driving tropospheric/surface ozone trends over East Asia, and to reconcile the results from chemical transport models, statistical methods, and machine learning methods, based on the EAO3 dataset.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

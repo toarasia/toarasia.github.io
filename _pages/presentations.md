@@ -1,9 +1,9 @@
 ---
-title: "Presentations"
+title: "Documents"
 layout: gridlay
-excerpt: "Presentations"
+excerpt: "Documents"
 sitemap: false
-permalink: /presentations/
+permalink: /documents/
 ---
 
 # Presentations

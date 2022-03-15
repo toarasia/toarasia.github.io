@@ -1,9 +1,10 @@
 - name: "Xiao Lu"
   photo: XiaoLu.jpeg
-  info: Sun Yat-sen University
+  info: Member, Modeling Scientist Sun Yat-sen University
   email: luxiao25@mail.sysu.edu.cn
   number_educ: 1
-  education1: Member, Modeling Scientist, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
+  education1: Sun Yat-sen University 
+  education2: <a href="http://www.xlusysu.org/group/">Webpage</a>, University of Zurich
 
 
 - name: "This could be you !"

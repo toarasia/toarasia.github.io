@@ -1,10 +1,10 @@
 - name: "Xiao Lu"
   photo: XiaoLu.jpeg
-  info: Member, Modeling Scientist Sun Yat-sen University
+  info: Member, Modeling Scientist
   email: luxiao25@mail.sysu.edu.cn
-  number_educ: 1
-  education1: Sun Yat-sen University 
-  education2: <a href="http://www.xlusysu.org/group/">Webpage</a>, University of Zurich
+  number_educ: 2
+  education1: Sun Yat-sen University, China 
+  education2: luxiao25@mail.sysu.edu.cn <a href="http://www.xlusysu.org/group/">Webpage</a>
 
 
 - name: "This could be you !"

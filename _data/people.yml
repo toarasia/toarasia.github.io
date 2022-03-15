@@ -70,14 +70,14 @@
   education2: xinhuang@nju.edu.cn
   education3: <a href="https://as.nju.edu.cn/as_en/01/1f/c20740a327967/page.htm">Webpage</a>
 
-- name: "Ke Li"
-  photo: KeLi.jpeg
-  info: Co-lead
+- name: "Junli Jin"
+  photo: TOAR.jpeg
+  info: Member
   email: hai.guo@polyu.edu.hk
   number_educ: 3
-  education1: Nanjing University of Information Science and Technology, China
-  education2: keli@nuist.edu.cn
-  education3: <a href="https://faculty.nuist.edu.cn/keli">Webpage</a>
+  education1: China Meteorological Administration, China
+  education2: jinjl@cma.gov.cn
+  education3: <a href="https://www.researchgate.net/profile/Junli-Jin">Webpage</a>
 
 - name: "Joowan Kim"
   photo: JoowanKim.jpeg
@@ -106,6 +106,15 @@
   education2: zach45@yonsei.ac.kr
   education3: <a href="https://www.acap.asia/en/staffcustom/2028/">Webpage</a>
 
+- name: "Dongwon Lee"
+  photo: smile.png
+  info: Member
+  email: kurokawa@acap.asia
+  number_educ: 3
+  education1: National Institute of Environmental Research, South Korea
+  education2: ex12@korea.kr
+  education3: <a href="https://www.nier.go.kr/NIER/eng/index.do">Webpage</a>
+
 - name: "Mee-Hye Lee"
   photo: Mee-HyeLee.jpeg
   info: Member
@@ -131,7 +140,7 @@
   number_educ: 3
   education1: Sun Yat-sen University, China
   education2: liuym88@mail.sysu.edu.cn
-  education3: <a href="https://faculty.nuist.edu.cn/keli">Webpage</a>
+  education3: <a href="https://atmos.sysu.edu.cn/teacher/2869">Webpage</a>
 
 
 - name: "Keding Lu"
@@ -178,6 +187,15 @@
   education1: National Institute for Environmental Studies, Japan
   education2: nagashima.tatsuya@nies.go.jp
   education3: <a href="https://www.nies.go.jp/researchers-e/100290.html/">Webpage</a>
+
+- name: "Keiichi Sato "
+  photo: TOAR.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: Asian Center for Air Pollution Research, Japan
+  education2: ksato@acap.asia
+  education3: <a href="https://www.acap.asia/en/about/staff/">Webpage</a>
 
 - name: "Lu Shen"
   photo: LuShen.jpeg

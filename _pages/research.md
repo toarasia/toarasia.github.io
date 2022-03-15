@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Please Join Us
+# Please Join Us!
 
 
 ### 2022

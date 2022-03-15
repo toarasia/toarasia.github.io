@@ -6,8 +6,11 @@ sitemap: false
 permalink: /presentations/
 ---
 
-# Presentations
+# WG Information
+Our WG has about 30 members from 9 countries/regions. We are working on the better understanding of ozone pollution issues over Asia.  Please find more from our report to TOAR II committee.
 
-### 2021
-TBD
 
+# Call for Data Contribution! You are needed! 
+The WG is devoted to constructing the EAO3 database that will include ozone measurements from the surface to the tropopause collected from individual institutions, and auxiliary measurements (e.g., ozone precursors, emission data) over East Asia and neighbouring regions.
+
+If you are interested, please find more in our Data Requirement and Credit Statement.

@@ -37,7 +37,7 @@ The East Asia Focus Working Group, launched in March 2021, aims to advance ozone
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig2.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig3.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig1.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig1.jpg" alt="Slide 5" />

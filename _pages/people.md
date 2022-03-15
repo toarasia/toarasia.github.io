@@ -27,6 +27,9 @@ permalink: /people/
   <li> {{ member.education1 }} </li>
   {% endif %}
 
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
 
   </ul>
 </div>

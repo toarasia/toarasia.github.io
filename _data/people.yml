@@ -7,6 +7,15 @@
   education2: juseonbak@pusan.ac.kr
   education3: <a href="https://orcid.org/0000-0002-0421-671X">Webpage</a>
 
+- name: "Surat Bualert"
+  photo: SuratBualer.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Kasetsart University, Thailand
+  education2: Surat.b@ku.ac.th
+  education3: <a href="https://envi.ku.ac.th/en/personnel/?u=62">Webpage</a>
+
 - name: "Meng Gao"
   photo: MengGao.jpeg
   info: Member
@@ -51,6 +60,15 @@
   education1: Nanjing University of Information Science and Technology, China
   education2: jianlinhu@nuist.edu.cn
   education3: <a href="https://faculty.nuist.edu.cn/hujianlin/en/index.htm">Webpage</a>
+
+- name: "Xin Huang"
+  photo: XinHuang.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Nanjing University, China
+  education2: xinhuang@nju.edu.cn
+  education3: <a href="https://as.nju.edu.cn/as_en/01/1f/c20740a327967/page.htm">Webpage</a>
 
 - name: "Ke Li"
   photo: KeLi.jpeg
@@ -106,6 +124,16 @@
   education2: keli@nuist.edu.cn
   education3: <a href="https://faculty.nuist.edu.cn/keli">Webpage</a>
 
+- name: "Yiming Liu"
+  photo: YimingLiu.jpeg
+  info: Co-lead
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Sun Yat-sen University, China
+  education2: liuym88@mail.sysu.edu.cn
+  education3: <a href="https://faculty.nuist.edu.cn/keli">Webpage</a>
+
+
 - name: "Keding Lu"
   photo: KedingLu.jpeg
   info: Member
@@ -124,6 +152,15 @@
   education2: luxiao25@mail.sysu.edu.cn  
   education3: <a href="http://www.xlusysu.org/">Webpage</a>
 
+- name: "Xiaopu Lyu"
+  photo: XiaopuLyu.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: The Hong Kong Polytechnic University, China
+  education2: xiaopu.lyu@polyu.edu.hk
+  education3: <a href="https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-xiaopu-lyu/">Webpage</a>
+
 - name: "Kasemsan Manomaiphiboon"
   photo: KasemsanManomaiphiboon.jpeg
   info: Member
@@ -132,6 +169,15 @@
   education1: King Mongkut’s University of Technology Thonburi, Thailand
   education2: kasemsanm@hotmail.com
   education3: <a href="https://www.jgsee.kmutt.ac.th/v3/personnel/assoc-prof-dr-kasemsan-manomaiphiboon/">Webpage</a>
+
+- name: "Tatsuya Nagashima"
+  photo: TatsuyaNagashima.jpeg
+  info: Co-lead
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: National Institute for Environmental Studies, Japan
+  education2: nagashima.tatsuya@nies.go.jp
+  education3: <a href="https://www.nies.go.jp/researchers-e/100290.html/">Webpage</a>
 
 - name: "Lu Shen"
   photo: LuShen.jpeg
@@ -142,6 +188,15 @@
   education2: lshen@pku.edu.cn
   education3: <a href="https://scholar.google.com/citations?user=SXSO620AAAAJ&hl=en">Webpage</a>
 
+- name: "Seiji Sugata"
+  photo: SeijiSugata.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: National Institute for Environmental Studies, Japan
+  education2: sugatas@nies.go.jp
+  education3: <a href="https://www.nies.go.jp/researchers-e/100103.html">Webpage</a>
+
 - name: "Pornpan Uttamang"
   photo: PornpanUttamang.jpeg
   info: Member
@@ -151,6 +206,33 @@
   education2: p.uttamang@gmail.com
   education3: <a href="https://stu2.mju.ac.th/person_detail.aspx?pid=MzMwOTkwMTYwMzc1OQ==">Webpage</a>
 
+- name: "Tao Wang"
+  photo: TaoWang.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: The Hong Kong Polytechnic University, China
+  education2: tao.wang@polyu.edu.hk 
+  education3: <a href="https://www.polyu.edu.hk/en/cee/people/academic-staff/prof-wang-tao/">Webpage</a>
+
+- name: "Xiaobin Xu"
+  photo: XiaobinXu.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: China Meteorological Administration, China
+  education2: 13311298991@189.cn
+  education3: <a href="https://www.camscma.cn/article/210.html">Webpage</a>
+
+- name: "Wanyun Xu"
+  photo: WanyunXu.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: China Meteorological Administration, China
+  education2: xuwy@cma.gov.cn
+  education3: <a href="https://www.researchgate.net/profile/Wanyun-Xu">Webpage</a>
+
 - name: "Likun Xue"
   photo: LikunXue.jpeg
   info: Member
@@ -159,3 +241,12 @@
   education1: Shandong University, China
   education2: xuelikun@sdu.edu.cn
   education3: <a href="https://faculty.sdu.edu.cn/xuelikun/zh_CN/index.htm">Webpage</a>
+
+- name: "Yuqiang Zhang"
+  photo: YuqiangZhang.jpeg
+  info: Member
+  email: luxiao25@mail.sysu.edu.cn
+  number_educ: 3
+  education1: Duke University, USA
+  education2: yuqiang.zhang@duke.ed
+  education3: <a href="https://yuqiangzhang.wordpress.com/">Webpage</a>

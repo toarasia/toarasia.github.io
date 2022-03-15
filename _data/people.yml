@@ -1,7 +1,7 @@
-- name: "Xiao Lu1"
-  photo: smile.png
-  info: Nanjing University
-  email: jing.j.meng@ucl.ac.uk
+- name: "Xiao Lu"
+  photo: XiaoLu.jpeg
+  info: Sun Yat-sen University
+  email: luxiao25@mail.sysu.edu.cn
   number_educ: 0
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
 

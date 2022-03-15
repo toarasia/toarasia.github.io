@@ -1,3 +1,12 @@
+- name: "Juseon Bak"
+  photo: JuseonBak.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Pusan National University, South Korea
+  education2: juseonbak@pusan.ac.kr
+  education3: <a href="https://orcid.org/0000-0002-0421-671X">Webpage</a>
+
 - name: "Bing Gong"
   photo: BingGong.jpeg
   info: Member
@@ -15,6 +24,42 @@
   education1: The Hong Kong Polytechnic University, China
   education2: hai.guo@polyu.edu.hk
   education3: <a href="https://www.polyu.edu.hk/cee/~ceguohai//">Webpage</a>
+
+- name: "Jianlin Hu"
+  photo: Jianlinhu.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Nanjing University of Information Science and Technology, China
+  education2: jianlinhu@nuist.edu.cn
+  education3: <a href="https://faculty.nuist.edu.cn/hujianlin/en/index.htm">Webpage</a>
+
+- name: "Joowan Kim"
+  photo: JoowanKim.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Kongju National University, South Korea
+  education2: joowan@kongju.ac.kr
+  education3: <a href="http://atmdyn.org/index.html">Webpage</a>
+
+- name: "Ja-Ho Koo"
+  photo: Ja-HoKoo.jpeg
+  info: Co-lead
+  email: hai.guo@polyu.edu.hk 
+  number_educ: 3
+  education1: Yonsei University, South Korea
+  education2: zach45@yonsei.ac.kr
+  education3: <a href="https://yonsei.pure.elsevier.com/en/persons/ja-ho-koo">Webpage</a>
+
+- name: "Junichi Kurokawa"
+  photo: JunichiKurokawa.jpeg
+  info: Member
+  email: kurokawa@acap.asia
+  number_educ: 3
+  education1: Asian Center for Air Pollution Research, Japan
+  education2: zach45@yonsei.ac.kr
+  education3: <a href="https://www.acap.asia/en/staffcustom/2028/">Webpage</a>
 
 - name: "Xiao Lu"
   photo: XiaoLu.jpeg

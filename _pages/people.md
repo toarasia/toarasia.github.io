@@ -6,8 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
-The EAWG is led by **Xiao Lu, Ke Li, Tatsuya Nagashima, Ja-Ho Koo** 
-### The EAWG is led by Xiao Lu, Ke Li, Tatsuya Nagashima, Ja-Ho Koo 
+#The EAWG is led by Xiao Lu, Ke Li, Tatsuya Nagashima, Ja-Ho Koo 
 # Working Group Members
 
 {% assign number_printed = 0 %}

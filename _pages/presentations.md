@@ -7,7 +7,7 @@ permalink: /presentations/
 ---
 
 ### WG Information
-Our WG has about 30 members from 9 countries/regions. We are working on the better understanding of ozone pollution issues over Asia.  Please find more from our [report]({{ site.url }}{{ site.baseurl }}/downloads/EAWGtoSC20210310.pptx) to TOAR II committee.
+Our WG has about 30 members from 9 countries/regions. We are working on the better understanding of ozone pollution issues over Asia.  Please find more from our [report]({{ site.url }}{{ site.baseurl }}/downloads/EAWGtoSC20210310.pdf) to TOAR II committee.
 
 
 ### Call for Data Contribution! You are needed! 

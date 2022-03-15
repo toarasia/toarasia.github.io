@@ -11,7 +11,7 @@ permalink: /people/
 {% assign number_printed = 0 %}
 {% for member in site.data.people %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -29,6 +29,7 @@ permalink: /people/
 
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
   {% endif %}
 
   </ul>
@@ -42,7 +43,7 @@ permalink: /people/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}

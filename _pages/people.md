@@ -7,6 +7,7 @@ permalink: /people/
 ---
 
 #The EAWG is led by Xiao Lu, Ke Li, Tatsuya Nagashima, Ja-Ho Koo
+
 #Prof. Lin Zhang (Peking University) is the EAWG's liaison from TOAR-II Steering Committee
   
 # Working Group Members

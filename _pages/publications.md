@@ -8,6 +8,6 @@ permalink: /publications/
 
 
 # TOAR-II EAO3
-EAO3 database is under construction.
+EAO3 database is under construction and will be coming soon.
 
 

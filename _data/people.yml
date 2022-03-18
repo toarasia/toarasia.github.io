@@ -16,6 +16,24 @@
   education2: Surat.b@ku.ac.th
   education3: <a href="https://envi.ku.ac.th/en/personnel/?u=62">Webpage</a>
 
+- name: "Tim Bulter"
+  photo: TimBulter.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Institute for Advanced Sustainability Studies, Germany
+  education2: tim.butler@iass-potsdam.de
+  education3: <a href="https://www.iass-potsdam.de/en/people/tim-butler">Webpage</a>
+
+- name: "Shaojia Fan"
+  photo: ShaojiaFan.jpeg
+  info: Member
+  email: hai.guo@polyu.edu.hk
+  number_educ: 3
+  education1: Sun Yat-sen University, China
+  education2: eesfsj@mail.sysu.edu.cn
+  education3: <a href="https://atmos.sysu.edu.cn/teacher/346">Webpage</a>
+
 - name: "Meng Gao"
   photo: MengGao.jpeg
   info: Member
